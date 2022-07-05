@@ -21,4 +21,4 @@
 
 `minikube service node-app-service`
 
-- Check all the logs in the lens. Download it from this link [Link](https://k8slens.dev/)
+- Check all the logs in the lens. Download it from this [Link](https://k8slens.dev/)
